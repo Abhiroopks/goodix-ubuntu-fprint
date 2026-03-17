@@ -49,6 +49,8 @@ sudo apt install -y \
     gtk-doc-tools \
     libgirepository1.0-dev \
     libgusb-dev \
+    libdbus-1-dev \
+    libssl-dev \
     libpam-wrapper \
     libpam0g-dev \
     libpamtest0-dev \
